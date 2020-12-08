@@ -34,7 +34,6 @@ class SearchBar extends React.Component {
                             </i>
                         </div>
                     </div>
-
                 </form>
             </div>
         )
