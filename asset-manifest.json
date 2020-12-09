@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/utubes/static/css/main.064f595e.chunk.css",
+    "main.js": "/utubes/static/js/main.1738bce4.chunk.js",
+    "main.js.map": "/utubes/static/js/main.1738bce4.chunk.js.map",
+    "runtime-main.js": "/utubes/static/js/runtime-main.6b5dd996.js",
+    "runtime-main.js.map": "/utubes/static/js/runtime-main.6b5dd996.js.map",
+    "static/js/2.554decee.chunk.js": "/utubes/static/js/2.554decee.chunk.js",
+    "static/js/2.554decee.chunk.js.map": "/utubes/static/js/2.554decee.chunk.js.map",
+    "index.html": "/utubes/index.html",
+    "static/css/main.064f595e.chunk.css.map": "/utubes/static/css/main.064f595e.chunk.css.map",
+    "static/js/2.554decee.chunk.js.LICENSE.txt": "/utubes/static/js/2.554decee.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6b5dd996.js",
+    "static/js/2.554decee.chunk.js",
+    "static/css/main.064f595e.chunk.css",
+    "static/js/main.1738bce4.chunk.js"
+  ]
+}
